@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASM_Demo", "WASM_Demo.csproj", "{B8B1C3C1-0791-4C22-806B-B38A58B7E813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B1C3C1-0791-4C22-806B-B38A58B7E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B1C3C1-0791-4C22-806B-B38A58B7E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B1C3C1-0791-4C22-806B-B38A58B7E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B1C3C1-0791-4C22-806B-B38A58B7E813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
